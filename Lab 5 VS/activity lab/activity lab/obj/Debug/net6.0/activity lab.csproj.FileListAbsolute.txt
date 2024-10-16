@@ -1,0 +1,15 @@
+C:\Users\233511\Desktop\Lab 5 vs\activity lab\activity lab\bin\Debug\net6.0\activity lab.exe
+C:\Users\233511\Desktop\Lab 5 vs\activity lab\activity lab\bin\Debug\net6.0\activity lab.deps.json
+C:\Users\233511\Desktop\Lab 5 vs\activity lab\activity lab\bin\Debug\net6.0\activity lab.runtimeconfig.json
+C:\Users\233511\Desktop\Lab 5 vs\activity lab\activity lab\bin\Debug\net6.0\activity lab.dll
+C:\Users\233511\Desktop\Lab 5 vs\activity lab\activity lab\bin\Debug\net6.0\activity lab.pdb
+C:\Users\233511\Desktop\Lab 5 vs\activity lab\activity lab\obj\Debug\net6.0\activity lab.csproj.AssemblyReference.cache
+C:\Users\233511\Desktop\Lab 5 vs\activity lab\activity lab\obj\Debug\net6.0\activity lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\233511\Desktop\Lab 5 vs\activity lab\activity lab\obj\Debug\net6.0\activity lab.AssemblyInfoInputs.cache
+C:\Users\233511\Desktop\Lab 5 vs\activity lab\activity lab\obj\Debug\net6.0\activity lab.AssemblyInfo.cs
+C:\Users\233511\Desktop\Lab 5 vs\activity lab\activity lab\obj\Debug\net6.0\activity lab.csproj.CoreCompileInputs.cache
+C:\Users\233511\Desktop\Lab 5 vs\activity lab\activity lab\obj\Debug\net6.0\activity lab.dll
+C:\Users\233511\Desktop\Lab 5 vs\activity lab\activity lab\obj\Debug\net6.0\refint\activity lab.dll
+C:\Users\233511\Desktop\Lab 5 vs\activity lab\activity lab\obj\Debug\net6.0\activity lab.pdb
+C:\Users\233511\Desktop\Lab 5 vs\activity lab\activity lab\obj\Debug\net6.0\activity lab.genruntimeconfig.cache
+C:\Users\233511\Desktop\Lab 5 vs\activity lab\activity lab\obj\Debug\net6.0\ref\activity lab.dll
